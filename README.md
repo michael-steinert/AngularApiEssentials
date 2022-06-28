@@ -6,7 +6,6 @@
 - Angular Services allow to save the Functionalities on one Location instead of different Components
 - They centralized Functionality and share it across different Components
 - Angular Services can be injected into Components and be there used
--
 
 # Reactive Programming vs. Procedural Programming
 
