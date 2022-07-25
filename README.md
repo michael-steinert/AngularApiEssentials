@@ -14,13 +14,18 @@
 - JavaScript can not execute Commands, Line by Line, hence Frontend Frameworks based on JavaScript and TypeScript work asynchronously
 - Reactive Programming is Programming with asynchronous Data Streams that can be **created**, **changed** or **combined** on the go
 
+### Reactive Programming
+
+- Reactive Code is completely self-defined
+- Nothing else tells it how to change
+- It manages its own Behavior by declaring clear Data Dependencies
+- All reactive Code is declarative, but not all declarative Code is reactive
+
 ## Angular Components
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29623199/177098581-00bf2e56-8a50-4443-babb-ad616c89b221.png" alt="Angular Components" />
 </p>
-
-![angular-components]()
 
 ### Angular Module
 
